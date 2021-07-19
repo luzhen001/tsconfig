@@ -1,6 +1,6 @@
 ### 此文件为ts的配置文件  tsconfig.json
 
-### 地址为 https://github.com.cnpmjs.org/luzhen001/tsconfig
+### 地址为 https://github.com/luzhen001/tsconfig
 
 
     "include":[],
